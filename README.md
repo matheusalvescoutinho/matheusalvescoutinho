@@ -18,7 +18,7 @@
 
 ## 📌 Projetos em destaque
 
-### 🔹 MacIntegra (macintegra.com.br)
+### 🔹 MacIntegra (https://macintegra.com.br/)
 Sistema real que se integra com uma API de logística, utilizado por transportadoras para executar processos e operações de forma mais rápida e confiável.
 
 ---
