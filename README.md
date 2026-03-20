@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Matheus Alves Coutinho
 
-<!--
-**matheusalvescoutinho/matheusalvescoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Python focado em automação, APIs e integração de sistemas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e habilidades
+
+- 🐍 Python
+- 🤖 Automação Web e Desktop
+- 🌐 APIs com FastAPI e Flask
+- 🔗 Integrações entre sistemas
+- 📄 Processamento de dados (XML, PDF, Excel)
+- ☁️ VPS, Cloudflare e deploy de aplicações
+- 🎨 HTML, CSS e JavaScript (básico/intermediário)
+
+---
+
+## 📌 Projetos em destaque
+
+### 🔹 MacIntegra (macintegra.com.br)
+Sistema real que se integra com uma API de logística, utilizado por transportadoras para executar processos e operações de forma mais rápida e confiável.
+
+---
+
+## 📈 Objetivo
+
+Buscando oportunidades como desenvolvedor para atuar com Python, automações e backend.
+
+---
+
+## 📫 Contato
+
+- Email: matheusalvescoutinho.dev@gmail.com
