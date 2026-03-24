@@ -23,16 +23,10 @@ Sistema real integrado a uma API de logística, muito utilizado por transportado
 
 - 🔗 Integração com API externa
 - ⚙️ Automação de processos operacionais
-- 📄 Processamento de dados (XML, PDF, Excel)
-- ☁️ Deploy em VPS com Cloudflare
+- 📄 Processamento de dados (XML, PDF, Excel...)
+- ☁️ Deploy em VPS, camada de segurança e performance com Cloudflare
 
 🌐 https://macintegra.com.br/
-
----
-
-## 📈 Objetivo
-
-Buscando oportunidades como desenvolvedor para atuar com Python, automações e desenvolvimento backend.
 
 ---
 
