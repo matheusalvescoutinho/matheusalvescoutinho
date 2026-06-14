@@ -6,12 +6,12 @@
 
 ## 🚀 Tecnologias e habilidades
 
-- 🐍 Python (Avançado, focado em performance e escalabilidade)
+- 🐍 Python (Avançado)
 - 🤖 Automação Web e Desktop  
 - 🌐 APIs com FastAPI e Flask  
 - 🔗 Integrações entre sistemas  
 - 📄 Processamento de dados (XML, PDF, Excel)  
-- ☁️ VPS, Cloudflare e deploy de aplicações  
+- ☁️ VPS, Cloudflare e deploy de aplicações com controle de versões sem downtime. 
 - 🎨 HTML, CSS e JavaScript (Intermediário) 
 
 ---
