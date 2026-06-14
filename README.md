@@ -1,18 +1,18 @@
-# 👋 Olá, eu sou o Matheus Coutinho
+# 👋 Olá, eu sou o Matheus Alves Coutinho
 
-💻 Desenvolvedor Python focado em automação, APIs e integração de sistemas.
+💻 Desenvolvedor Backend focado em automação, criação de APIs e integração de sistemas.
 
 ---
 
 ## 🚀 Tecnologias e habilidades
 
-- 🐍 Python  
+- 🐍 Python (Avançado, focado em performance e escalabilidade)
 - 🤖 Automação Web e Desktop  
 - 🌐 APIs com FastAPI e Flask  
 - 🔗 Integrações entre sistemas  
 - 📄 Processamento de dados (XML, PDF, Excel)  
 - ☁️ VPS, Cloudflare e deploy de aplicações  
-- 🎨 HTML, CSS e JavaScript (básico/intermediário)  
+- 🎨 HTML, CSS e JavaScript (Intermediário) 
 
 ---
 
@@ -23,7 +23,7 @@ Sistema real integrado a uma API de logística, muito utilizado por transportado
 
 - 🔗 Integração com API externa
 - ⚙️ Automação de processos operacionais
-- 📄 Processamento de dados (XML, PDF, Excel...)
+- 📄 Processamento de dados, download de arquivos, automação e simplificação de operações complexas.
 - ☁️ Deploy em VPS, camada de segurança e performance com Cloudflare
 
 🌐 https://macintegra.com.br/
@@ -32,4 +32,5 @@ Sistema real integrado a uma API de logística, muito utilizado por transportado
 
 ## 📫 Contato
 
-📧 Email: matheusalvescoutinho.dev@gmail.com
+Email: matheusalvescoutinho.dev@gmail.com
+WhatsApp: 64 9 9314-3794
